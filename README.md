@@ -9,7 +9,7 @@ Developed a two-page interactive HR Attendance Analytics Dashboard in Power BI t
 ![](attendance-dashboard.png)
 
 ### Page 2 — MIS Report
-![Page 2](images/page2.png)
+![](mis-report.png)
 
 ## Tools & Technologies
 - **Visualization:** Power BI Desktop
